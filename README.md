@@ -39,4 +39,4 @@ Design a futuristic e-commerce platform focusing on seamless user experience for
 ---
 
 ## **Wireframes**  
-Wireframes for customer and vendor portals are available in the `/docs` folder.  
+Wireframes for customer and vendor portals are available.  
